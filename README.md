@@ -1,8 +1,9 @@
 # ubuntu-18.04-openjdk8-javafx-installation
 ## Install Open JDK 8
 
-``` sudo apt-get update ```
-``` sudo apt install openjdk-8-jdk ```
+``` sudo apt-get update 
+ sudo apt install openjdk-8-jdk 
+```
 
 ## Install openjfx
 
